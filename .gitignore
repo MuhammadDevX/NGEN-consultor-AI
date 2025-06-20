@@ -1,0 +1,11 @@
+.venv
+
+uv.lock
+
+example
+
+
+data
+
+
+__pycache__
