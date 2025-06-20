@@ -1,0 +1,5 @@
+Frontend Engineer 40
+Backend Engineer 40
+Database Engineer 50
+Cloud Engineer 80
+Testing Engineer 30

@@ -3,7 +3,7 @@
 uv.lock
 
 example
-data
+
 __pycache__
 
 .env
