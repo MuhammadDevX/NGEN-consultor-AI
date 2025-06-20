@@ -4,7 +4,7 @@ Main Streamlit application for the NGEN Consultor
 import streamlit as st
 import asyncio
 from pathlib import Path
-from description_agent import DescriptionAgent
+from agents.description_agent import DescriptionAgent
 def main():
     st.set_page_config(
         page_title="NGEN Project Report Generator",
