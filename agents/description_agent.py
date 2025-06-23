@@ -196,7 +196,7 @@ Please start asking questions from the questioner document systematically, one s
         models = {
             "openai": self.openai_agent,
             "claude": self.claude_agent,
-            "llama": self.llama_agent
+            # "llama": self.llama_agent
         }
         
         for model_name, agent in models.items():
